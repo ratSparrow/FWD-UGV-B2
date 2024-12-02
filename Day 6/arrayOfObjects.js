@@ -1,0 +1,48 @@
+const students = [
+    {
+        id:1,
+        name:"Abir",
+        session:"2012-2013",
+        course:["CSE","ECE","English","ME"],
+        address:{
+            division:"Barisal",
+            district:"Sadar",
+            village:"Notullabad",
+            wordNo:12,
+            road:2
+        }, 
+        married:true,
+    },
+    {
+        id:2,
+        name:"Samad",
+        session:"2012-2013",
+        course:["English","ME"],
+        address:{
+            division:"Barisal",
+            district:"Sadar",
+            village:"Notullabad",
+            wordNo:12,
+            road:2
+        }, 
+        married:true,
+    },
+    {
+        id:3,
+        name:"Samad",
+        session:"2012-2013",
+        course:["CSE","ECE","English","ME"],
+        address:{
+            division:"Barisal",
+            district:"Sadar",
+            village:"Notullabad",
+            wordNo:12,
+            road:2
+        }, 
+        married:true,
+    },
+]
+
+for (let student of students){
+    console.log(student.course[1])
+}
