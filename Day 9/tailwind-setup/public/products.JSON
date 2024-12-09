@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Hydrating Facial Cleanser",
+      "brand": "GlowSkin",
+      "price": 12.99,
+      "category": "Cleanser",
+      "description": "A gentle, hydrating cleanser suitable for all skin types.",
+      "ingredients": ["Aqua", "Glycerin", "Niacinamide", "Hyaluronic Acid"],
+      "skinType": ["Normal", "Dry", "Oily", "Combination"],
+      "rating": 4.5,
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Vitamin C Brightening Serum",
+      "brand": "RadiantCare",
+      "price": 24.99,
+      "category": "Serum",
+      "description": "Brightens skin tone and reduces dark spots.",
+      "ingredients": ["Vitamin C", "Ferulic Acid", "Aloe Vera"],
+      "skinType": ["All"],
+      "rating": 4.7,
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Oil-Free Moisturizer",
+      "brand": "PureBalance",
+      "price": 15.49,
+      "category": "Moisturizer",
+      "description": "Lightweight, non-greasy moisturizer for oily skin.",
+      "ingredients": ["Aloe Vera", "Squalane", "Glycerin"],
+      "skinType": ["Oily", "Combination"],
+      "rating": 4.3,
+      "stock": 40
+    },
+    {
+      "id": 4,
+      "name": "Broad Spectrum Sunscreen SPF 50",
+      "brand": "SunShield",
+      "price": 18.99,
+      "category": "Sunscreen",
+      "description": "Protects against UVA and UVB rays with a matte finish.",
+      "ingredients": ["Zinc Oxide", "Titanium Dioxide", "Vitamin E"],
+      "skinType": ["All"],
+      "rating": 4.6,
+      "stock": 60
+    },
+    {
+      "id": 5,
+      "name": "Exfoliating Scrub",
+      "brand": "FreshGlow",
+      "price": 10.99,
+      "category": "Scrub",
+      "description": "Removes dead skin cells for smoother texture.",
+      "ingredients": ["Walnut Shell Powder", "Aloe Vera", "Green Tea Extract"],
+      "skinType": ["Normal", "Oily", "Combination"],
+      "rating": 4.2,
+      "stock": 25
+    }
+  ]
+  
